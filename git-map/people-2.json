@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Pusheenicorn",
+    "iconUrl": "images/pusheenicorn.jpg",
+    "url": "//pusheenicorn.me",
+    "message": "Just rolling around here",
+    "lat_long": [
+      27.907058,
+      -38.847656
+    ],
+    "year": "'16"
+  },
+
+  {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "//kevinrfarmer.com",
+    "message": "We need more snow",
+    "lat_long": [
+      44.675221,
+      -72.923841
+    ],
+    "year": "'18"
+  },
+
+  {
+    "name": "Nate Neumann",
+    "iconUrl": "images/fujicrop.jpg",
+    "url": "//nneumann.me",
+    "message": "Error: self-description not found.",
+    "lat_long": [
+      33.0370,
+      -117.2920
+    ],
+    "year": "'20"
+},
+
+  {
+  "name": "Amy Guan",
+  "iconUrl": "images/amy.jpg",
+  "url": "//amy52.me",
+  "message": "new badge who dis",
+  "lat_long": [
+    40.350030,
+    -74.661422
+  ],
+  "year": "'20"
+},
+  {
+    "name": "Nathan Yu",
+    "iconUrl": "images/nathan_yu.jpg",
+    "url": "//nathanyu.me",
+    "message": "Join DXR if you're interested in VR/AR!! :D",
+    "lat_long": [
+      35.222567,
+      -97.439478
+    ],
+    "year": "'19"
+  },
+  
+  {
+    "name": "Ijemma Onwuzulike",
+    "iconUrl": "images/ijemma.png",
+    "url": "//ijemmao.me",
+    "message": "where the memes are spicy 🤙🏾",
+    "lat_long": [
+      37.9492705,
+      -121.7354938
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Sofia Stanescu-Bellu",
+    "iconUrl": "images/sofia.jpg",
+    "url": "//sofiasb.me",
+    "message": "Can't touch the vision",
+    "lat_long": [
+      45.760396,
+      21.236615
+    ],
+    "year": "'20"
+  }
+]

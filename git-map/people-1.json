@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.jpg",
+    "url": "//annieke.me",
+    "message": "graphic design is my passion",
+    "lat_long": [37.338208, -121.886329],
+    "year": "'19"
+  },
+  {
+    "name": "Sia",
+    "iconUrl": "images/sia.jpg",
+    "url": "//siapeng.me",
+    "message": "Let's go eat Sushi!",
+    "lat_long": [
+      49.2827,
+      -123.1207
+    ],
+    "year": "11BC"
+  },
+  {
+    "name": "Tim",
+    "iconUrl": "images/tim_round.jpg",
+    "url": "//www.zingweb.com",
+    "message": "Hiking in the High Sierras!",
+    "lat_long": [
+      37.2320967,
+      -118.8578716
+    ],
+    "year": "11BC"
+  },
+  {
+    "name": "Steven",
+    "iconUrl": "images/steven.png",
+    "url": "//www.stevenchun.me",
+    "message": "haha",
+    "lat_long": [
+      41.878114,
+      -87.629798
+    ],
+    "year": "19"
+  },
+  {
+    "name": "Andrew",
+    "iconUrl": "images/andrewliu.jpg",
+    "url": "andrewakliu.me",
+    "message": "Hi!",
+    "lat_long": [
+      47.610150,
+      -122.201516
+    ],
+    "year": "'19"
+  }
+]
