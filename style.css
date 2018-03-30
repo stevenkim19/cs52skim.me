@@ -1,0 +1,46 @@
+body {
+  background-color: #D6F0F3;
+  font-family: "Arial", Gadget, sans-serif;
+}
+p {
+  font-family: roboto;
+}
+.center {
+  text-align: center;
+}
+.mypic {
+  width: 400px;
+  height: 280px;
+  margin-bottom: 55px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.aboutmetext {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.fa {
+    padding: 50px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+#social {
+  margin: auto;
+  list-style-type: none;
+}
+#social li {
+  font-size: 40px;
+  display: inline-block;
+}
+#social a {
+  display: block;
+  text-align: center;
+}
+.clr {
+    clear: both;
+}
